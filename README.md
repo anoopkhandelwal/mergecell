@@ -1,0 +1,1 @@
+This project is the basic implementation of the square cell merge
